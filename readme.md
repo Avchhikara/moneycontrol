@@ -50,8 +50,8 @@ Support me here:
 
 _by scanning the following the QR code in any UPI payment supported app_
 
-![](https://res.cloudinary.com/mrmagician/image/upload/c_scale,h_117,q_100/v1617404364/qr-code_fpsmvi.png)
+![](https://res.cloudinary.com/mrmagician/image/upload/c_scale,h_144,q_100/v1617404943/qr-code_usqjaw.png)
 
 **or**
 
-_by using the following upi-id_: **mr.magician@ybl**
+_by using the following upi-id_: **mrmagician@axl**
