@@ -9,7 +9,7 @@ README = (HERE / "readme.md").read_text()
 
 setup(
     name="moneycontrol",
-    version="1.0.1",
+    version="1.0.2",
     description="Web scraper for moneycontrol.com",
     long_description=README,
     long_description_content_type="text/markdown",
