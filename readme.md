@@ -41,3 +41,17 @@ This package basically scrape the moneycontrol.com website.
 
 1. **Getting company financial data (moneycontrol has a lot of it)**
 1. anything else
+
+## Did it help?
+
+You can be my motivation 😀
+
+Support me here:
+
+_by scanning the following the QR code in any UPI payment supported app_
+
+![](https://res.cloudinary.com/mrmagician/image/upload/c_scale,h_117,q_100/v1617404364/qr-code_fpsmvi.png)
+
+**or**
+
+_by using the following upi-id_: **mr.magician@ybl**
